@@ -1,0 +1,5 @@
+{
+  "name": "Khmer Math Limit Solver",
+  "description": "An application that solves mathematical limit problems from an uploaded image using AI. The user uploads an image of a limit problem, and the app provides a step-by-step solution in Khmer.",
+  "requestFramePermissions": []
+}
